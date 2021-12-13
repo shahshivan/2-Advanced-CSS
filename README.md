@@ -4,3 +4,4 @@ The purpose of this project is to utilize advanced CSS skills to design a person
 # Deployed Webpage Link
 https://github.com/shahshivan/2-Advanced-CSS#:~:text=shahshivan.github.io/2%2Dadvanced%2Dcss/
 # Screenshot
+![image](https://user-images.githubusercontent.com/93161624/145745011-7f1598ae-064e-4737-a417-9645c9cab65a.png)
